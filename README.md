@@ -10,7 +10,7 @@ I'm still in the process of migrating, and some of my projects are still hosted
 on GitHub for now. But if you're looking for anything I'm building, you're more
 likely to find it over on Codeberg.
 
-There are many reasons I've decied to migrate off the GitHub platform, but it's
+There are many reasons I've decided to migrate off the GitHub platform, but it's
 mostly due to what can probably be summed up as "enshittification". I'm not here
 to rehash all of what's broken about the GitHub platform. It's all over the tech
 news feeds lately... For me a big reason in moving was I felt that GitHub was no
