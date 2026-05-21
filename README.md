@@ -24,9 +24,7 @@ Codeberg promises a better open source stewardship as a democratically run
 non-profit and is built on Forgejo which is under the same non-profit umbrella.
 Forgejo is a fork of Gitea. And honestly it's just a simpler interface with only
 what you need. It's a platform for hosting git repositories and not too much
-else; kind of like how GitHub used to be back in the day. I found myself
-breathing a sigh of relief after having landed there. I can get back to
-focusing on what I enjoy which is tinkering and building.
+else; kind of like how GitHub used to be back in the day.
 
 I believe in open source software, that's why I'm supporting Codeberg with a
 regularly scheduled donation on [liberapay](https://liberapay.com/akraker/). If
